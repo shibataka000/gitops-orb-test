@@ -3,4 +3,4 @@ kind: Kustomization
 images:
 - name: myapp
   newName: myapp
-  newTag: c76d1046bc5e123a09bd251f3d681067558d5cb7
+  newTag: 6fa8fd5821101af92f93646bb946f027bf762da6
